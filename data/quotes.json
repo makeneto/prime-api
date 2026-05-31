@@ -1,0 +1,295 @@
+[
+  {
+    "category": "Discipline",
+    "text": "Discipline is the bridge between goals and accomplishment.",
+    "author": "Jim Rohn"
+  },
+  {
+    "category": "Discipline",
+    "text": "We are what we repeatedly do.",
+    "author": "Aristotle"
+  },
+  {
+    "category": "Discipline",
+    "text": "Discipline equals freedom.",
+    "author": "Jocko Willink"
+  },
+  {
+    "category": "Discipline",
+    "text": "Without discipline, talent is useless.",
+    "author": "Cristiano Ronaldo"
+  },
+
+  {
+    "category": "Execution",
+    "text": "Ideas are nothing without execution.",
+    "author": "Elon Musk"
+  },
+  {
+    "category": "Execution",
+    "text": "Done is better than perfect.",
+    "author": "Sheryl Sandberg"
+  },
+  {
+    "category": "Execution",
+    "text": "Execution separates dreamers from achievers.",
+    "author": "Nolan Bushnell"
+  },
+  {
+    "category": "Execution",
+    "text": "What gets measured gets done.",
+    "author": "Peter Drucker"
+  },
+
+  {
+    "category": "Focus",
+    "text": "Focus is what separates good from great.",
+    "author": "Bill Gates"
+  },
+  {
+    "category": "Focus",
+    "text": "Where focus goes, energy flows.",
+    "author": "Tony Robbins"
+  },
+  {
+    "category": "Focus",
+    "text": "If you chase two rabbits, you catch none.",
+    "author": "Confucius"
+  },
+  {
+    "category": "Focus",
+    "text": "The main thing is to keep the main thing the main thing.",
+    "author": "Stephen Covey"
+  },
+
+  {
+    "category": "Leadership",
+    "text": "Leadership is about responsibility, not power.",
+    "author": "Barack Obama"
+  },
+  {
+    "category": "Leadership",
+    "text": "Leaders don’t create followers, they create more leaders.",
+    "author": "Tom Peters"
+  },
+  {
+    "category": "Leadership",
+    "text": "Example is leadership.",
+    "author": "Albert Schweitzer"
+  },
+  {
+    "category": "Leadership",
+    "text": "Leadership is influence.",
+    "author": "John C. Maxwell"
+  },
+
+  {
+    "category": "Ambition",
+    "text": "Dream big, start small, act now.",
+    "author": "Robin Sharma"
+  },
+  {
+    "category": "Ambition",
+    "text": "Some people dream of success, others wake up and work.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "category": "Ambition",
+    "text": "Your only limit is your ambition.",
+    "author": "Elon Musk"
+  },
+  {
+    "category": "Ambition",
+    "text": "High expectations are the key to everything.",
+    "author": "Sam Walton"
+  },
+
+  {
+    "category": "Growth",
+    "text": "Stay hungry, stay foolish.",
+    "author": "Steve Jobs"
+  },
+  {
+    "category": "Growth",
+    "text": "Mistakes are the price of progress.",
+    "author": "Sundar Pichai"
+  },
+  {
+    "category": "Growth",
+    "text": "Growth begins at the end of comfort.",
+    "author": "Tony Robbins"
+  },
+  {
+    "category": "Growth",
+    "text": "Life is about evolution, not perfection.",
+    "author": "Oprah Winfrey"
+  },
+
+  {
+    "category": "Resilience",
+    "text": "Failure is simply the opportunity to begin again.",
+    "author": "Henry Ford"
+  },
+  {
+    "category": "Resilience",
+    "text": "It’s not whether you get knocked down, it’s whether you get up.",
+    "author": "Vince Lombardi"
+  },
+  {
+    "category": "Resilience",
+    "text": "Fall seven times, stand up eight.",
+    "author": "Japanese Proverb"
+  },
+  {
+    "category": "Resilience",
+    "text": "Hard times create strong people.",
+    "author": "Robert Kiyosaki"
+  },
+
+  {
+    "category": "Thinking",
+    "text": "Think long term or be irrelevant.",
+    "author": "Jeff Bezos"
+  },
+  {
+    "category": "Thinking",
+    "text": "Simplicity is the ultimate sophistication.",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "category": "Thinking",
+    "text": "The quality of your thinking shapes your life.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "category": "Thinking",
+    "text": "Clarity precedes success.",
+    "author": "Robin Sharma"
+  },
+
+  {
+    "category": "Creation",
+    "text": "Innovation distinguishes leaders from followers.",
+    "author": "Steve Jobs"
+  },
+  {
+    "category": "Creation",
+    "text": "Build things people want.",
+    "author": "Paul Graham"
+  },
+  {
+    "category": "Creation",
+    "text": "Creativity is intelligence having fun.",
+    "author": "Albert Einstein"
+  },
+  {
+    "category": "Creation",
+    "text": "Make something people need.",
+    "author": "Mark Zuckerberg"
+  },
+
+  {
+    "category": "Performance",
+    "text": "Energy flows where attention goes.",
+    "author": "Tony Robbins"
+  },
+  {
+    "category": "Performance",
+    "text": "Efficiency is doing better what is already being done.",
+    "author": "Peter Drucker"
+  },
+  {
+    "category": "Performance",
+    "text": "Do less, but better.",
+    "author": "Dietrich Bonhoeffer"
+  },
+  {
+    "category": "Performance",
+    "text": "High performance is a habit.",
+    "author": "Brendon Burchard"
+  },
+
+  {
+    "category": "Ownership",
+    "text": "Take responsibility for everything in your life.",
+    "author": "Jocko Willink"
+  },
+  {
+    "category": "Ownership",
+    "text": "If it is to be, it is up to me.",
+    "author": "William H. Johnsen"
+  },
+  {
+    "category": "Ownership",
+    "text": "Don’t make excuses, make improvements.",
+    "author": "Tyrese Gibson"
+  },
+  {
+    "category": "Ownership",
+    "text": "Own your outcomes.",
+    "author": "Ray Dalio"
+  },
+
+  {
+    "category": "Time",
+    "text": "Time is your most valuable asset.",
+    "author": "Steve Jobs"
+  },
+  {
+    "category": "Time",
+    "text": "Lost time is never found again.",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "category": "Time",
+    "text": "You don’t have time, you make time.",
+    "author": "Unknown"
+  },
+  {
+    "category": "Time",
+    "text": "The best investment is time.",
+    "author": "Warren Buffett"
+  },
+
+  {
+    "category": "Legacy",
+    "text": "Your legacy is every life you touch.",
+    "author": "Maya Angelou"
+  },
+  {
+    "category": "Legacy",
+    "text": "Someone is sitting in shade because you planted a tree.",
+    "author": "Warren Buffett"
+  },
+  {
+    "category": "Legacy",
+    "text": "Create something that outlives you.",
+    "author": "Steve Jobs"
+  },
+  {
+    "category": "Legacy",
+    "text": "The goal is impact, not income.",
+    "author": "Tony Robbins"
+  },
+
+  {
+    "category": "Mastery",
+    "text": "Mastery is never accidental.",
+    "author": "Jeff Bezos"
+  },
+  {
+    "category": "Mastery",
+    "text": "Practice until you can’t get it wrong.",
+    "author": "Tiger Woods"
+  },
+  {
+    "category": "Mastery",
+    "text": "Excellence is not a skill, it's an attitude.",
+    "author": "Ralph Marston"
+  },
+  {
+    "category": "Mastery",
+    "text": "You don’t rise to the level of goals, you fall to systems.",
+    "author": "James Clear"
+  }
+]
