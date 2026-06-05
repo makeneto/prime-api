@@ -1,17 +1,18 @@
 # 🚀 Prime API
 
-API simples e rápida para obtenção de quotes de celebridades.
+Simple and fast API for retrieving celebrity quotes.
 
 ---
 
-## 📌 Descrição
+## 📌 Description
 
-A **Prime API** fornece citações de celebridades de forma aleatória ou filtrada.  
-Ideal para apps de motivação, dashboards, landing pages e projetos frontend.
+**Prime API** provides inspirational celebrity quotes, either randomly or filtered.
+
+Built for motivation apps, dashboards, landing pages, and frontend projects that need dynamic content.
 
 ---
 
-## ⚙️ Tecnologias
+## ⚙️ Technologies
 
 - Node.js
 - Express
@@ -21,22 +22,33 @@ Ideal para apps de motivação, dashboards, landing pages e projetos frontend.
 ---
 
 ## 📡 Base URL
-https://prime-api.vercel.app
+https://makenedev-primeapi.vercel.app
 
 ---
 
 ## 🔥 Endpoints
 
-### 📍 GET `/quotes`
+### 📍 GET `/quote/week`
 
-Retorna todas as quotes.
+Returns the featured quote of the week.
 
 **Response**
+
 ```json
-[
-  {
-    "id": 1,
-    "author": "Albert Einstein",
-    "quote": "A imaginação é mais importante que o conhecimento."
+{
+  "week": "2026-W23",
+  "quote": {
+    "category": "Performance",
+    "text": "Energy flows where attention goes.",
+    "author": "Tony Robbins"
   }
-]
+}
+```
+
+## 🚀 Run Locally
+```
+git clone https://github.com/makeneto/prime-api.git
+cd prime-api
+npm install
+npm run dev
+```
